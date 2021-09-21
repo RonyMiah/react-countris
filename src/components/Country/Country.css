@@ -1,0 +1,9 @@
+.country{
+    background-color: pink;
+    margin: 15px ;
+    padding: 5px ;
+    border-radius: 10px;
+}
+.country img{
+    width: 200px;
+}
